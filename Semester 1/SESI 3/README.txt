@@ -1,0 +1,2 @@
+Ini adalah folder yang berisi file untuk website yang dipeajari dari channel youtube Dea Afrizal
+Pada sesi 3 alias sesi ini yang mempelajari bootstrap file tdk terlalu sama dengan tutorial kerena salah satu faktor perbedaan versi bootstrap sehingga untuk mengatasi hal tersebut saya mrmbuat folder dengan nama realExample agar versi tutorial dapat dilihat
